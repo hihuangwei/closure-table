@@ -21,7 +21,7 @@
     ],
     "license": "MIT",
     "minimum-stability": "stable",
-    "name": "jiaxincui/closure-table",
+    "name": "hihuangwei/closure-table",
     "require": {
         "php": ">=8.0",
         "illuminate/database": "^9.0|^10.0|^11.0|^12.0",
